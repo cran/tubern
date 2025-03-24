@@ -2,9 +2,21 @@
 % Please edit documentation in R/tubern.R
 \docType{package}
 \name{tubern}
-\alias{tubern}
 \alias{tubern-package}
+\alias{tubern}
 \title{\pkg{tubern} provides access to the YouTube Analytics and Reporting API}
 \description{
-\pkg{tubern} provides access to the YouTube Analytics and Reporting API
+Get statistics and reports from YouTube. To learn more about the YouTube Analytics and Reporting API, see \url{https://developers.google.com/youtube/reporting/}.
+}
+\seealso{
+Useful links:
+\itemize{
+  \item \url{https://github.com/gojiplus/tubern}
+  \item Report bugs at \url{https://github.com/gojiplus/tubern/issues}
+}
+
+}
+\author{
+\strong{Maintainer}: Gaurav Sood \email{gsood07@gmail.com}
+
 }
